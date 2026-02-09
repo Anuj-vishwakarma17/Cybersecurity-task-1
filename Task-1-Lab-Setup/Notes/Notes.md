@@ -59,4 +59,3 @@ Packet capture involves monitoring data packets transmitted over a network inter
 - Understanding how data travels in a network
 - Identifying source and destination IP addresses
 - Observing protocol behavior
-
